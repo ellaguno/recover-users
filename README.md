@@ -6,6 +6,8 @@
 
 A WordPress plugin that helps you re-engage inactive users by sending personalized emails containing their previous posts and recent blog updates.
 
+[![Recover Users](https://raw.githubusercontent.com/ellaguno/recover-users/refs/heads/main/assets/banner-772x250.png)
+
 ## 🌟 Features
 
 - **Automated Email System**: Schedule automatic weekly emails to inactive users
