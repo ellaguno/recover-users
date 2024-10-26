@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: User Reactivation Email 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sesolibre.com\n"
+"POT-Creation-Date: 2024-10-25 12:00+0000\n"
+"PO-Revision-Date: 2024-10-25 16:47-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: recover-users\n"
+
+#: user-reactivation.php:47
+msgid "Email Settings"
+msgstr ""
+
+#: user-reactivation.php:54
+msgid "User Selection"
+msgstr ""
+
+#: user-reactivation.php:61
+msgid "Automatic Sending"
+msgstr ""
+
+#: user-reactivation.php:69
+msgid "Inactivity Period (days)"
+msgstr ""
+
+#: user-reactivation.php:77
+msgid "User Roles to Include"
+msgstr ""
+
+#: user-reactivation.php:85
+msgid "Only Users with Posts"
+msgstr ""
+
+#: user-reactivation.php:92
+msgid "Enable automatic weekly emails"
+msgstr ""
+
+#: user-reactivation.php:106
+msgid "Number of days without posts to consider a user inactive"
+msgstr ""
+
+#: user-reactivation.php:138
+msgid "Only send emails to users who have published at least one post"
+msgstr ""
+
+#. translators: %s: user's display name
+#: user-reactivation.php:225
+msgid "Hi %s,"
+msgstr "Hi  %s  ,"
+
+#: user-reactivation.php:226
+msgid "We hope you are doing well. We noticed it's been a while since you last wrote on our blog. We'd love to have your contributions again!"
+msgstr ""
+
+#: user-reactivation.php:237
+msgid "Your latest posts:"
+msgstr ""
+
+#: user-reactivation.php:250
+msgid "Latest blog posts:"
+msgstr ""
+
+#: user-reactivation.php:256
+msgid "We hope to see you back soon!"
+msgstr ""
+
+#: user-reactivation.php:263
+msgid "We miss you on our blog!"
+msgstr ""
+
+#: user-reactivation.php:283
+msgid "This is a test email from User Reactivation plugin"
+msgstr ""
+
+#: user-reactivation.php:286
+msgid "This is how your reactivation emails will look. Below you'll see:"
+msgstr ""
+
+#: user-reactivation.php:288
+msgid "Your latest posts (if any)"
+msgstr ""
+
+#: user-reactivation.php:289
+msgid "Recent blog posts"
+msgstr ""
+
+#: user-reactivation.php:307
+msgid "No posts found for your user. This section will only appear for users who have published posts."
+msgstr ""
+
+#. translators: 1: user email, 2: date
+#: user-reactivation.php:327
+msgid "This test email was sent to %1$s on %2$s"
+msgstr ""
+
+#: user-reactivation.php:339
+msgid "[TEST] User Reactivation Email Preview"
+msgstr ""
+
+#. translators: %s: user email
+#: user-reactivation.php:347
+msgid "Test email sent to %s"
+msgstr ""
+
+#: user-reactivation.php:353
+msgid "Failed to send test email. Please check your WordPress email configuration."
+msgstr ""
+
+#: user-reactivation.php:364
+msgid "Permission denied"
+msgstr ""
+
+#. translators: %d: number of emails sent
+#: user-reactivation.php:378
+msgid "Successfully sent %d reactivation emails"
+msgstr ""
+
+#: user-reactivation.php:411
+msgid "User Reactivation Settings"
+msgstr ""
+
+#: user-reactivation.php:414
+msgid "Test Email"
+msgstr ""
+
+#: user-reactivation.php:415
+msgid "Send a test email to yourself to preview how reactivation emails will look."
+msgstr ""
+
+#: user-reactivation.php:417
+msgid "Send Test Email"
+msgstr ""
+
+#: user-reactivation.php:436
+msgid "Manual Email Send"
+msgstr ""
+
+#: user-reactivation.php:437
+msgid "Click the button below to manually send reactivation emails to inactive users."
+msgstr ""
+
+#: user-reactivation.php:439
+msgid "Send Emails Now"
+msgstr ""
+
+#: user-reactivation.php:451
+msgid "User Reactivation"
+msgstr ""
+
+#: user-reactivation.php:483
+msgid "Are you sure you want to send reactivation emails now?"
+msgstr ""
+
+#: user-reactivation.php:484
+msgid "Sending test email..."
+msgstr ""
+
+#: user-reactivation.php:485
+msgid "Test email sent successfully!"
+msgstr ""
+
+#: user-reactivation.php:486
+msgid "Error sending test email. Please try again."
+msgstr ""

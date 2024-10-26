@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Reactivation Email\n"
+"POT-Creation-Date: 2024-10-25 10:00+0000\n"
+"PO-Revision-Date: 2024-10-25 16:46-0600\n"
+"Last-Translator: Eduardo Llaguno\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "User Reactivation Settings"
+msgstr "Configuración de Reactivación de Usuarios"
+
+msgid "Email Settings"
+msgstr "Configuración de Correo"
+
+msgid "User Selection"
+msgstr "Selección de Usuarios"
+
+msgid "Email Content Settings"
+msgstr "Configuración del Contenido del Correo"
+
+msgid "Automatic Sending"
+msgstr "Envío Automático"
+
+msgid "Enable automatic weekly emails"
+msgstr "Habilitar envío automático semanal"
+
+msgid "Inactivity Period (days)"
+msgstr "Período de Inactividad (días)"
+
+msgid "Number of days without posts to consider a user inactive"
+msgstr "Número de días sin publicaciones para considerar a un usuario inactivo"
+
+msgid "User Roles to Include"
+msgstr "Roles de Usuario a Incluir"
+
+msgid "Only Users with Posts"
+msgstr "Solo Usuarios con Publicaciones"
+
+msgid "Only send emails to users who have published at least one post"
+msgstr "Solo enviar correos a usuarios que hayan publicado al menos una vez"
+
+msgid "Custom Message"
+msgstr "Mensaje Personalizado"
+
+msgid "We hope you are doing well. We noticed it's been a while since you last wrote on our blog. We'd love to have your contributions again!"
+msgstr "Esperamos que estés bien. Notamos que ha pasado un tiempo desde tu última publicación en nuestro blog. ¡Nos encantaría tener tus contribuciones de nuevo!"
+
+msgid "Customize the message sent to inactive users. You can use {display_name} to include the user's name."
+msgstr "Personaliza el mensaje enviado a usuarios inactivos. Puedes usar {display_name} para incluir el nombre del usuario."
+
+msgid "Number of Posts to Include"
+msgstr "Número de Publicaciones a Incluir"
+
+msgid "User's Posts:"
+msgstr "Publicaciones del Usuario:"
+
+msgid "Number of user's own posts to include in the email (0-20)"
+msgstr "Número de publicaciones propias del usuario a incluir en el correo (0-20)"
+
+msgid "Recent Blog Posts:"
+msgstr "Publicaciones Recientes del Blog:"
+
+msgid "Number of recent blog posts to include in the email (0-20)"
+msgstr "Número de publicaciones recientes del blog a incluir en el correo (0-20)"
+
+msgid "Test Email"
+msgstr "Correo de Prueba"
+
+msgid "Send a test email to yourself to preview how reactivation emails will look."
+msgstr "Envía un correo de prueba para ver cómo se verán los correos de reactivación."
+
+msgid "Send Test Email"
+msgstr "Enviar Correo de Prueba"
+
+msgid "Manual Email Send"
+msgstr "Envío Manual de Correos"
+
+msgid "Click the button below to manually send reactivation emails to inactive users."
+msgstr "Haz clic en el botón de abajo para enviar manualmente correos a usuarios inactivos."
+
+msgid "Send Emails Now"
+msgstr "Enviar Correos Ahora"
+
+msgid "Hi %s,"
+msgstr "Hola   %s,"
+
+msgid "Your latest posts:"
+msgstr "Tus últimas publicaciones:"
+
+msgid "Latest blog posts:"
+msgstr "Últimas publicaciones del blog:"
+
+msgid "We hope to see you back soon!"
+msgstr "¡Esperamos verte pronto de nuevo!"
+
+msgid "We miss you on our blog!"
+msgstr "¡Te extrañamos en nuestro blog!"
+
+msgid "This is a test email from User Reactivation plugin"
+msgstr "Este es un correo de prueba del plugin de Reactivación de Usuarios"
+
+msgid "Successfully sent %d reactivation emails out of %d inactive users."
+msgstr "Se enviaron exitosamente %d correos de reactivación de %d usuarios inactivos."
+
+msgid "No inactive users found matching your criteria."
+msgstr "No se encontraron usuarios inactivos que coincidan con tus criterios."
+
+msgid "Failed to send test email. Please check your WordPress email configuration."
+msgstr "Error al enviar el correo de prueba. Por favor verifica la configuración de correo de WordPress."
+
+msgid "Test email sent to %s"
+msgstr "Correo de prueba enviado a %s"
+
+msgid "Are you sure you want to send reactivation emails now?"
+msgstr "¿Estás seguro de que quieres enviar los correos de reactivación ahora?"
+
+msgid "Sending test email..."
+msgstr "Enviando correo de prueba..."
+
+msgid "Test email sent successfully!"
+msgstr "¡Correo de prueba enviado exitosamente!"
+
+msgid "Error sending test email. Please try again."
+msgstr "Error al enviar el correo de prueba. Por favor intenta de nuevo."
+
+msgid "An error occurred. Please try again."
+msgstr "Ocurrió un error. Por favor intenta de nuevo."

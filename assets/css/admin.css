@@ -1,0 +1,32 @@
+/* Admin Styles */
+.user-reactivation-test-email,
+.user-reactivation-manual-send {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.user-reactivation-test-email h3,
+.user-reactivation-manual-send h3 {
+    margin-top: 0;
+}
+
+.spinner {
+    float: none;
+    margin: 4px 10px;
+    visibility: hidden;
+}
+
+.spinner.is-active {
+    visibility: visible;
+}
+
+.test-email-result {
+    margin-top: 15px;
+}
+
+.notice {
+    margin: 15px 0;
+}
